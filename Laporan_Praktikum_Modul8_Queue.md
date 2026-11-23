@@ -759,7 +759,7 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-![Screenshot Output Unguided 2](https://github.com/AgungTriUtomo/109082500048_AgungTriUtomo_Modul8/blob/main/Output/Output%20Unguided%202.png)
+![Screenshot Output Unguided 2](Output/Output%20Unguided%202.png)
 
 
 
